@@ -1,0 +1,8 @@
+//Run the project 
+//grunt
+//Installation
+// npm i typescript --save
+// npm i grunt --save
+// npm i grunt-cli --save
+// npm install -g grunt-cli
+// npm i grunt-ts --save

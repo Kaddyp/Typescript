@@ -1,0 +1,4 @@
+tsc helloWorld.ts  ==> node helloWorld.js
+
+
+tsc util.ts timesTwo.ts --outFile util.js
